@@ -17,6 +17,7 @@
 
         public int nascimento { get; set; } = 1910;
 
+        public int anos { get; set; } = 1000;
 
 
     }
