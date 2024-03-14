@@ -15,6 +15,8 @@
 
         public int titulos { get; set; } = 100;
 
+        public int nascimento { get; set; } = 1910;
+
 
 
     }
