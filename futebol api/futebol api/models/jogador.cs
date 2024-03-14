@@ -13,6 +13,7 @@
 
         public int numero { get; set; } = 12;
 
+        public int titulos { get; set; } = 100;
 
 
 
